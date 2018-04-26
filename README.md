@@ -1,5 +1,5 @@
-# MMM-Solar
-A Solar Module for MagicMirror2 designed to integrate with an Enphase Solar System
+# MMM-SolarEdge
+A Solar Module for MagicMirror2 designed to integrate with an SOLAREDGE SYSTEM 
 
 ## Dependencies
   * A [MagicMirror<sup>2</sup>](https://github.com/MichMich/MagicMirror) installation
