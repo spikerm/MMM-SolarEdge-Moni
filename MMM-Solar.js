@@ -1,6 +1,6 @@
 /*
-* Magic Mirror module for displaying Enphase Solar data
-* By Thomas Krywitsky
+* Magic Mirror module for displaying SolarEdge data
+* By Rex Markesteijn
 * MIT Licensed
 */
 
