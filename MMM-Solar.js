@@ -4,7 +4,7 @@
 * MIT Licensed
 */
 
-Module.register("MMM-Solar",{
+Module.register("MMM-SolarEdge",{
     // Default module config.
     defaults: {
         url: "https://api.enphaseenergy.com/api/v2/systems/",
@@ -88,7 +88,7 @@ Module.register("MMM-Solar",{
         if (!this.config.basicHeader) {
             var imgDiv = document.createElement("div");
             var img = document.createElement("img");
-            img.src = "/modules/MMM-Solar/solar_white.png";
+            img.src = "/modules/MMM-SolarEdge/solar_white.png";
 
             var sTitle = document.createElement("p");
             sTitle.innerHTML = "Solar PV";
@@ -123,7 +123,7 @@ Module.register("MMM-Solar",{
 
         //Enphase API attribution requirements
         var attrib = document.createElement("p");
-        attrib.innerHTML = "Powered by Enphase Energy";
+        attrib.innerHTML = "Powered by SolarEdge Monitoring";
 	      attrib.id = "attribution";
 	      attrib.className += "light";
         wrapper.appendChild(attrib);
