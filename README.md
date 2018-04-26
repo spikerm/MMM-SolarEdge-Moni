@@ -16,8 +16,8 @@ A Solar Module for MagicMirror2 designed to integrate with an SolarEdge inverter
 	position: 'bottom_left',
 	config: {
 		apiKey: "################################", //Requires your own API Key
-		userId: "4d7a45774e6a41320a", //Enphase example user
-		systemId: "67", //Enphase example system
+		userId: "4d7a45774e6a41320a", //User ID
+		systemId: "67", //Site ID 
 	}
  },
 ```
